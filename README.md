@@ -49,7 +49,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- Manage Budget
+- Boilerplate for integrating react, redux with RoR
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -57,8 +57,6 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 [Check out the live demo](https://mysite-nmu0.onrender.com/)
-
-[Video](https://www.loom.com/share/449a75201327438e80cdc014ad3470e6?sid=04bc7353-b236-4664-9bb1-4d0a27a9f062)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,7 +137,6 @@ If you like this project, please stay tune for more features
 
 - Jehovah God
 - [Microverse Team](https://www.microverse.org/).
-- Original design idea by [Gregoire Vella on Behance](https://www.behance.net/gregoirevella).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
