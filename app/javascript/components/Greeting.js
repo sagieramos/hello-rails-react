@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { fetchRandomGreeting } from '../redux/actions';
+import { Link } from 'react-router-dom'
 
 const Greeting = () => {
   const dispatch = useDispatch();
@@ -14,6 +15,7 @@ const Greeting = () => {
     <div>
       <h1>{greeting}</h1>
       <h3>Greetings To Microverse</h3>
+      <Link to="/page">Go to New Page</Link>
     </div>
   );
 };

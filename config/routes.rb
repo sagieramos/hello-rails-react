@@ -10,6 +10,8 @@ Rails.application.routes.draw do
   # Defines the root path route ("/")
   root 'root#index'
 
+  get '*path', to: 'root#index', constraints: ->(req) { !req.xhr? && req.format.html? }
+
   namespace :api do
     namespace :v1 do
       resources :messages, only: [:index]
