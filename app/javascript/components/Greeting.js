@@ -12,8 +12,8 @@ const Greeting = () => {
 
   return (
     <div>
-      <h2>Greeting:</h2>
-      <p>{greeting}</p>
+      <h1>{greeting}</h1>
+      <h3>Greetings To Microverse</h3>
     </div>
   );
 };
